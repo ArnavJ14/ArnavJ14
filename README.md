@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnavJ14
-- 🌱 I’m currently learning studying at the University of Pennsylvania
+- 🌱 I’m currently studying at the University of Pennsylvania (Majoring in CIS)
 - 📫 How to reach me: arnavjhaveri@gmail.com
 
 <!---
